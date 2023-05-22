@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "nome": "Celular",
+    "preco": 1000
+  },
+  {
+    "id": 2,
+    "nome": "Geladeira",
+    "preco": 2000
+  },
+  {
+    "id": 3,
+    "nome": "Fogão",
+    "preco": 1200
+  },
+  {
+    "id": 4,
+    "nome": "Chuveiro",
+    "preco": 100
+  },
+  {
+    "id": 5,
+    "nome": "Televisão 50pol",
+    "preco": 2000
+  }
+]
